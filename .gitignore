@@ -13,3 +13,13 @@
 ### ## pycharm folders & venv
 /.venv/
 /.idea/
+
+# Credentials
+.env
+
+# Raw/processed data (ACLED terms forbid redistributing raw data)
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
