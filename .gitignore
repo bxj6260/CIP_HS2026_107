@@ -18,8 +18,9 @@
 .env
 
 # Raw/processed data (ACLED terms forbid redistributing raw data)
-data/
+data/raw/ACLED
 
 # Python / Jupyter
 __pycache__/
 .ipynb_checkpoints/
+.venv
