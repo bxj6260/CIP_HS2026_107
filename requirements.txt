@@ -3,3 +3,8 @@ pandas
 requests
 openpyxl
 pyarrow
+seaborn
+matplotlib.pyplot
+matplotlib.dates
+matplotlib.ticker
+scipy.stats
