@@ -17,10 +17,14 @@
 # Credentials
 .env
 
-# Raw/processed data (ACLED terms forbid redistributing raw data)
-data/raw/ACLED
+# ACLED raw data and data derived from it (ACLED's licence restricts sharing)
+data/raw/acled/
+data/processed/
+
+# Local dev container setup
+.devcontainer*
 
 # Python / Jupyter
 __pycache__/
 .ipynb_checkpoints/
-.venv
+.venv/

@@ -1,10 +1,9 @@
-pathlib
 pandas
+numpy
 requests
 openpyxl
 pyarrow
+matplotlib
 seaborn
-matplotlib.pyplot
-matplotlib.dates
-matplotlib.ticker
-scipy.stats
+scipy
+jupyter
