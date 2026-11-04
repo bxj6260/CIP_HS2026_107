@@ -1,7 +1,7 @@
-,,Weeks High,Weeks Low,P-Value
-Bab el-Mandeb Strait,Container,45.0,150.0,8.505780241658511e-07
-Bab el-Mandeb Strait,Tanker,45.0,150.0,0.10221577602695457
-Bab el-Mandeb Strait,Dry Bulk,45.0,150.0,0.20956844465403135
-Strait of Hormuz,Container,47.0,148.0,4.907133415919103e-09
-Strait of Hormuz,Tanker,47.0,148.0,6.839730777245999e-11
-Strait of Hormuz,Dry Bulk,47.0,148.0,3.067024093085663e-10
+,,Weeks High,Weeks Low,P-Value,P-Value (Holm)
+Bab el-Mandeb Strait,Container,45.0,150.0,8.505780241658511e-07,2.5517340724975535e-06
+Bab el-Mandeb Strait,Tanker,45.0,150.0,0.10221577602695457,0.20443155205390914
+Bab el-Mandeb Strait,Dry Bulk,45.0,150.0,0.20956844465403135,0.20956844465403135
+Strait of Hormuz,Container,47.0,148.0,4.907133415919103e-09,1.9628533663676413e-08
+Strait of Hormuz,Tanker,47.0,148.0,6.839730777245999e-11,4.103838466347599e-10
+Strait of Hormuz,Dry Bulk,47.0,148.0,3.067024093085663e-10,1.5335120465428316e-09
